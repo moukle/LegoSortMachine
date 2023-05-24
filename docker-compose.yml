@@ -1,0 +1,8 @@
+services:
+  scanner:
+    build: .
+    volumes:
+      - ./BrickScanner:/lego/src
+      - ./stl:/lego/stl
+      - ./data:/lego/data
+      - ./images:/lego/images
