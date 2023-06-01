@@ -7,7 +7,7 @@ This README provides instructions for setting up and using the BrickScanner proj
 Before starting, make sure you have the following files and directories:
 - `./data` and `./images` directories
 - [STLs.zip](https://projects.ifw.maschinenbau.tu-darmstadt.de/index.php/f/281902) (download and unzip to `./stl/`)
-- [BrickScanner](https://github.com/flowmeadow/BrickScanner) repository or [our fork](github.com/moukle/BrickScanner/)
+- [BrickScanner](https://github.com/flowmeadow/BrickScanner) repository or [our fork](https://github.com/moukle/BrickScanner/)
 
 To set up the necessary files and directories, follow these steps:
 ```bash
