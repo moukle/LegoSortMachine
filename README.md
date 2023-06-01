@@ -25,6 +25,9 @@ cp BrickScanner/resources/base_obb_data.pkl ./data
 A Docker image is provided with the necessary dependencies already installed and set up.
 We use [x11docker](https://github.com/mviereck/x11docker) to handle graphical outputs.
 
+- Docker: [Installation Guide](https://docs.docker.com/desktop/install/linux-install/)
+- x11docker: [Installation](https://github.com/mviereck/x11docker#tldr)
+
 ## Usage
 Follow the steps below to build and run the BrickScanner project.
 
