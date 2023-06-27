@@ -29,6 +29,7 @@ A Docker image is provided with the necessary dependencies already installed and
 We use [x11docker](https://github.com/mviereck/x11docker) to handle graphical outputs.
 
 - Docker: [Installation Guide](https://docs.docker.com/desktop/install/linux-install/)
+    - with the buildx plugin
 - x11docker: [Installation](https://github.com/mviereck/x11docker#tldr)
 
 ## Usage
